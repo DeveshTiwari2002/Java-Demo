@@ -1,4 +1,4 @@
-public class Mutable {
+public class Immutable {
     public static void main(String[] args) {
         String brand = "pwskill";
         System.out.println(brand);

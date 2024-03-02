@@ -93,7 +93,7 @@ class parent2
 {
     int age = 19;
 }
-class child extends Parent1, Parent2
+class child extends Parent1// Parent2
 {
 
 }
